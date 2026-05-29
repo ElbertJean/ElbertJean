@@ -27,17 +27,3 @@
 </td>
 </tr>
 </table>
-
----
-
-### 💬 SISTEMA DE DIÁLOGO RPG (SOBRE MIM)
-
-```yaml
-Personagem:  ELBERT JEAN DOS SANTOS
-Classe:      DESENVOLVEDOR FRONT-END
-Nível:       29 (Idade)
-Localização: São José dos Campos/SP - Brasil 🇧🇷
-Experiência: 3+ anos de sólida experiência em Front-End
-Especialidade: Interfaces de alta performance e mapas interativos georreferenciados (Leaflet/GeoJSON)
-Missão Secundária: Fundador do EVinil SaaS (evinil.com.br)
-```
