@@ -16,13 +16,13 @@
 <p style="font-size: 16px; line-height: 1.6;">Com 29 anos, residente de São José dos Campos/SP e <strong>3 anos de sólida experiência em Front-End</strong>, desenvolvo interfaces de alta performance, dashboards complexos e visualizações de dados interativas orientadas a mapas georreferenciados.</p>
 <br/>
 <div>
+<a href="https://elbertjean.github.io/" target="_blank">
+<img src="https://img.shields.io/badge/VER_MISSÕES_(PORTFÓLIO)-1e90ff?style=for-the-badge&logoColor=white" height="35" />
+</a>
 <a href="https://evinil.com.br" target="_blank">
 <img src="https://img.shields.io/badge/BOSS_STAGE:_EVINIL-ff4757?style=for-the-badge&logoColor=white" height="35" />
 </a>
 &nbsp;
-<a href="https://elbertjean.github.io/" target="_blank">
-<img src="https://img.shields.io/badge/VER_MISSÕES_(PORTFÓLIO)-1e90ff?style=for-the-badge&logoColor=white" height="35" />
-</a>
 </div>
 </td>
 </tr>
