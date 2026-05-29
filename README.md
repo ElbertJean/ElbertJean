@@ -12,7 +12,7 @@
 <td width="65%" valign="top" style="padding-left: 20px;">
 <code>[ PLAYER 1 - READY ]</code>
 <h1 style="margin-top: 10px; margin-bottom: 10px; border-bottom: none;">ELBERT JEAN DOS SANTOS</h1>
-<h3 style="color: #ffa502; margin-top: 5px; margin-bottom: 15px; font-family: monospace;">DESENVOLVEDOR FRONT-END
+<h3 style="color: #ffa502; margin-top: 5px; margin-bottom: 15px; font-family: monospace;">DESENVOLVEDOR FRONT-END</h3>
 <p style="font-size: 16px; line-height: 1.6;">Com 29 anos, residente de São José dos Campos/SP e <strong>3 anos de sólida experiência em Front-End</strong>, desenvolvo interfaces de alta performance, dashboards complexos e visualizações de dados interativas orientadas a mapas georreferenciados.</p>
 <br/>
 <div>
